@@ -13,8 +13,8 @@
 7. Created and updated this READ.md file.
 
 ## Issues Encountered
-- Claude Code extension was not available in the marketplace.
-- Codex extension was not available in the marketplace.
+- Searched for Claude Code extension in Cursor Marketplace but could not locate it. 
+- Searched for Codex extension in the Cursor Marketplace but could not locate it.
 
 ## Actions Taken
 - Verified Cursor installation.
